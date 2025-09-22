@@ -132,10 +132,11 @@ Eventstream routes data to two destinations:
   
 ---  
 
-### 👥 Team & Mentorship
-**Team Members   :**  
-- Senem Mergenci  -  Zehra Okay  -  Mehmet Gezer  -  Sefa Öztürk  -  Sueda Ekiz
 
-**Mentors  :**   A. Özcan Kurşun & Abdullah Mart  
+## 👥 Team & Mentorship
 
-**Supervisor   :**   Fatih Demir (Instructor)
+- Team Members :  Senem Mergenci - Zehra Okay - Mehmet Gezer - Sefa Öztürk - Sueda Ekiz
+
+- Mentors : A. Özcan Kurşun -  Abdullah Mart
+
+- Supervisor : Fatih Demir (Instructor)
